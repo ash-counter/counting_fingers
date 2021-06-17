@@ -3,7 +3,7 @@ Counting fingers in a live video feed, using OpenCV and MediaPipe.
 
 First we capture the video, and process the video, frame by frame. 
 
-Using MediaPipe we detect the hand and its landmark points.
+Using MediaPipe we detect the hand and its landmark points(red dots).
 
 These landmarks are connected which you see in form of green skeleton, when it detects hand.
 
@@ -15,4 +15,4 @@ The algorithm then checks for relative position of finger tips landmarks to the 
 
 This tells us whether it was open or closed. And thus it counts the total number of open fingers.
 
-As you can see in the sample video the detection and finger counting is spontaneous.
+As you can see in the demonstration video the detection and finger counting is spontaneous.
