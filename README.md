@@ -1,4 +1,4 @@
-# counting_fingers
+# Counting_fingers
 <br>
 Counting fingers in a live video feed, using OpenCV and MediaPipe.
 <br>
@@ -17,3 +17,4 @@ The algorithm then checks for relative position of finger tips landmarks to the 
 As you can see in the demonstration video the detection and finger counting is spontaneous.
 <br>
 # Demonstration 
+<br>
