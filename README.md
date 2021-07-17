@@ -16,3 +16,5 @@ The algorithm then checks for relative position of finger tips landmarks to the 
 This tells us whether it was open or closed. And thus it counts the total number of open fingers.
 
 As you can see in the demonstration video the detection and finger counting is spontaneous.
+
+#demonstration 
