@@ -15,6 +15,5 @@ Using multi_hand_landmarks method on results, gives us the landmarks, which we s
 The algorithm then checks for relative position of finger tips landmarks to the other landmarks in finger. 
 <br>
 As you can see in the demonstration video the detection and finger counting is spontaneous.
-<br>
+
 # Demonstration 
-<br>
