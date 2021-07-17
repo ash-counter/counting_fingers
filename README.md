@@ -17,3 +17,4 @@ The algorithm then checks for relative position of finger tips landmarks to the 
 As you can see in the demonstration video the detection and finger counting is spontaneous.
 
 # Demonstration 
+<img width="600px" src="https://github.com/ash-counter/counting_fingers/blob/main/Final_output.png">
